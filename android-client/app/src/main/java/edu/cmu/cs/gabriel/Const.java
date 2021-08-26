@@ -42,7 +42,7 @@ public class Const {
     public static int IMAGE_WIDTH = 320;
     public static int IMAGE_HEIGHT = 240;
 
-    public static final int PORT = 9099;
+    public static final int PORT = 80;
 
     // server IP
     public static String SERVER_IP = "";  // Cloudlet

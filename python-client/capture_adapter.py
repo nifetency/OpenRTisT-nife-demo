@@ -38,7 +38,7 @@ class CaptureAdapter:
         self.style_interval = config.STYLE_DISPLAY_INTERVAL
         self.current_style_frames = 0
 
-        video_capture = cv2.VideoCapture(-1)
+        video_capture = cv2.VideoCapture(0)
         video_capture.set(cv2.CAP_PROP_FPS, config.CAM_FPS)
 
         def consume_frame_style(frame, style, style_image):
