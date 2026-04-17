@@ -365,3 +365,9 @@ the next time you start the Android client from Android Studio.
 ## Credits
 
 Please see the [CREDITS](CREDITS.md) file for a list of acknowledgments.
+
+## References
+
+1. (https://nife.io)
+2. (https://docs.nife.io/deploy/Docker)
+
