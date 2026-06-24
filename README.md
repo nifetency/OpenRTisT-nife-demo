@@ -356,9 +356,7 @@ python model-app/openvino_convert.py <path_to_pytorch_model>
 ```
 ## 🚀 Deploy on OneClick
 
-[![Deploy Site on OneClick](https://img.shields.io/badge/Deploy%20Site-OneClick-blue?style=for-the-badge)](https://launch.nife.io/deploy-site/start?repository-url=https://github.com/nifetency/OpenRTisT-nife-demo)
-
-[![Deploy App on OneClick](https://img.shields.io/badge/Deploy%20App-OneClick-green?style=for-the-badge)](https://launch.nife.io/deploy-app/start?repository-url=https://github.com/nifetency/OpenRTisT-nife-demo)
+[![Deploy Application on OneClick](https://img.shields.io/badge/Deploy%20App-OneClick-green?style=for-the-badge)](https://launch.nife.io/deploy-app/start?repository-url=https://github.com/nifetency/OpenRTisT-nife-demo)
 
 ## Protocol
 
