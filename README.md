@@ -1,3 +1,17 @@
+<div align="center">
+
+<h3><b><u>Deploy this project instantly</u></b></h3>
+
+<a href="https://launch.nife.io/deploy-app/start?repository-url=https://github.com/nifetency/OpenRTisT-nife-demo">
+  <img
+    src="https://launch.nife.io/deploy-on-nife.svg"
+    alt="Deploy on NIFE"
+    width="280"
+  />
+</a>
+
+</div>
+
 # OpenRTiST: Real-Time Style Transfer
 
 OpenRTiST utilizes Gabriel, a platform for wearable cognitive assistance applications, to transform the live video from a mobile client into the styles of various artworks. The frames are streamed to a server where the chosen style is applied and the transformed images are returned to the client.
