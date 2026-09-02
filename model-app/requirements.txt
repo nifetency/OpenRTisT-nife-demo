@@ -16,7 +16,7 @@ networkx==1.11
 numpy==1.17.1
 olefile==0.46
 onnx==1.22.0
-opencv-python==4.1.1.26
+opencv-python==4.8.1.78
 Pillow==12.3.0
 protobuf==5.29.6
 pytz==2019.3
